@@ -1,0 +1,17 @@
+# http://magazine.redhat.com/2007/09/27/a-guide-to-gnu-screen/
+escape ^gg
+hardstatus alwayslastline
+hardstatus string '%{= kG}[ %{G}%H %{g}][%= %{=kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B}%Y-%m-%d %{W}%c %{g}]'
+# Default screens
+#screen -t NameOfScreen ScreenNumber ShellCommand
+#screen -t shell1 0
+#screen -t shell2 1
+#screen -t server 2 ssh me@myserver
+# 0 through 9 – Switches between windows
+# Ctrl+n – Switches to the next available window
+# Backspace – Switches to the previous available
+# Ctrl+a – Switches back to the last window you were on
+# A – Changes window session name
+# K – Kills a window session
+# c – Creates a new window
+# [ - Then use arrows to scroll up and down terminal
