@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+    Boilerplate code for python
+"""
 
 import sys
 
