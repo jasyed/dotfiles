@@ -11,6 +11,7 @@ build-essential
 mysql-client
 irssi
 automake
+tree
 python-psycopg2
 python-epydoc
 python-mysqldb
