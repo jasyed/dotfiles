@@ -1,10 +1,17 @@
+git
+less
+ssh
+apg
 htop
-subversion
-git-core
+screen
 curl
 pylint
-graphviz
 unzip
+python-setuptools
+libnss-mdns # for bonjour
+
+graphviz
+subversion
 cowsay
 postgresql-client
 build-essential
@@ -16,7 +23,6 @@ python-psycopg2
 python-epydoc
 python-mysqldb
 python-matplotlib
-python-setuptools
 python-numpy
 python-lxml
 python-dateutil
