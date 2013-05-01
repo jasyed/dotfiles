@@ -3,8 +3,8 @@ less
 ssh
 apg
 htop
-screen
 curl
+tmux
 pylint
 unzip
 python-setuptools
@@ -19,13 +19,3 @@ mysql-client
 irssi
 automake
 tree
-python-psycopg2
-python-epydoc
-python-mysqldb
-python-matplotlib
-python-numpy
-python-lxml
-python-dateutil
-python-demjson
-python-simplejson
-python-feedparser
