@@ -9,6 +9,7 @@ pylint
 unzip
 python-setuptools
 libnss-mdns # for bonjour
+python-unidecode
 
 graphviz
 subversion
